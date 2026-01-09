@@ -1,0 +1,6 @@
+@Oravecz_Adam_BackEnd_HostAddress = http://localhost:5262
+
+GET {{Oravecz_Adam_BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
