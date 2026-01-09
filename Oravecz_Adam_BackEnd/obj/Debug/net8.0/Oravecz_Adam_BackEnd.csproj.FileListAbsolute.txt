@@ -128,3 +128,4 @@ C:\Users\orave\source\repos\WepApi\Oravecz_Adam_BackEnd\Oravecz_Adam_BackEnd\obj
 C:\Users\orave\source\repos\WepApi\Oravecz_Adam_BackEnd\Oravecz_Adam_BackEnd\obj\Debug\net8.0\Oravecz_Adam_BackEnd.pdb
 C:\Users\orave\source\repos\WepApi\Oravecz_Adam_BackEnd\Oravecz_Adam_BackEnd\obj\Debug\net8.0\Oravecz_Adam_BackEnd.genruntimeconfig.cache
 C:\Users\orave\source\repos\WepApi\Oravecz_Adam_BackEnd\Oravecz_Adam_BackEnd\obj\Debug\net8.0\ref\Oravecz_Adam_BackEnd.dll
+C:\Users\orave\source\repos\WepApi\Oravecz_Adam_BackEnd\Oravecz_Adam_BackEnd\obj\Debug\net8.0\Oravecz_Adam_BackEnd.sourcelink.json

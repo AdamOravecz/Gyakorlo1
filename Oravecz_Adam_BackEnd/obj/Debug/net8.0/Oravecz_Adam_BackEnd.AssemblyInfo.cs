@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oravecz_Adam_BackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a0273e91732c2427e8540ce474b18d2d6fd34c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oravecz_Adam_BackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oravecz_Adam_BackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
